@@ -1,6 +1,6 @@
 {
   "allow": true,
-  "disclaimer-url" : "https://raw.githubusercontent.com/peekia/peekon/main/scd.html",
+  "disclaimer-url" : "https://raw.githubusercontent.com/sclesil/cl12/main/scd.html",
   "stt": {
     "t1": "",
     "t2": "",
