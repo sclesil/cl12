@@ -11,6 +11,16 @@
     "t7": "fY7TM9Q8kbFLPy723q24UHK9YE5OgKUCXdXtXPGAy1WSrdBzIcRFxsA0kk8qEBA=7ghA88d9t8m96YRifW1E",
     "t8": ""
 },
+"stn": {
+    "st1f": 1,
+    "st2f": 1,
+    "st3f": 1,
+    "st4f": 1,
+    "st5f": 1,
+    "st6f": 1,
+    "st7f": 1,
+    "st8f": 1
+},
 "st": {
     "st1f": 1000,
     "st2f": 1000,
