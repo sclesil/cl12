@@ -13,15 +13,15 @@
     "t9": "HAIzeDxVdWSdVJOTtQcz80EC3EAAB46A3C30NxdgLTbkaxYAPKQlPUSc"
 },
 "stn": {
-    "st1f": 1000,
-    "st2f": 1000,
-    "st3f": 1000,
-    "st4f": 1000,
-    "st5f": 1000,
-    "st6f": 1000,
-    "st7f": 1000,
-    "st8f": 1000,
-    "st9f": 1000
+    "st1f": 1,
+    "st2f": 1,
+    "st3f": 1,
+    "st4f": 1,
+    "st5f": 1,
+    "st6f": 1,
+    "st7f": 1,
+    "st8f": 1,
+    "st9f": 1
 },
 "st": {
     "st1f": 1000,
