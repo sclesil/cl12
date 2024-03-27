@@ -1,0 +1,27 @@
+{
+  "allow": true,
+  "serverVersion": "100",
+  "updateUrl": "https://a.todo.com/",
+  "disclaimerUrl" : "https://raw.githubusercontent.com/peekia/peekon/main/rndisclaimer.html",
+  "plUrl": "https://raw.githubusercontent.com/peekia/peekon/main/plU",
+"st": {
+    "st1f": 1,
+    "st2f": 1,
+    "st3f": 1,
+    "st4f": 1,
+    "st5f": 1,
+    "st6f": 1,
+    "st7f": 1,
+    "st8f": 1
+},
+ "sttv": {
+    "st1f": 1,
+    "st2f": 1,
+    "st3f": 1,
+    "st4f": 1,
+    "st5f": 1,
+    "st6f": 1,
+    "st7f": 1,
+    "st8f": 1
+}
+}
